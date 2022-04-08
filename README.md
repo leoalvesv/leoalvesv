@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Leonardo Alves Viana.
 <div align="start">
   <a style="display: flex" href="https://github.com/leoalvesv">
-  <img height="180em" width='50%' src="https://github-readme-stats.vercel.app/api?username=leoalvesv&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" width='50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoalvesv&layout=compact&langs_count=7&theme=vue"/>
+  <img height="180em" width='50%' src="https://github-readme-stats.vercel.app/api?username=leoalvesv&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width='50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoalvesv&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
