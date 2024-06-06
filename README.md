@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Leonardo Alves Viana.
 <div align="start">
-  <img height="180em" width='100%' src="https://github-readme-stats.vercel.app/api?username=leoalvesv&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoalvesv&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoalvesv&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoalvesv&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
